@@ -1,18 +1,19 @@
 # Built for Next.js & Antdesign
 This is the best Next.js-Ant Design starter project.  
 You can start a Next.js & Ant Design project with no friction.  
+But Don't forget: npm install
 
 We have simply configured the official documentation instructions below.  
 [Antdesign](https://ant.design/docs/react/use-with-next/)
 
 ## Specific Configuration
 - Next.js Configuration<br>
-✔ Would you like to use TypeScript? … No / Yes<br>
-✔ Would you like to use ESLint? … No / Yes<br>
-✔ Would you like to use Tailwind CSS? … No / Yes<br>
-✔ Would you like to use `src/` directory? … No / Yes<br>
-✔ Would you like to use App Router? (recommended) … No / Yes<br>
-✔ Would you like to customize the default import alias (@/*)? … No / Yes<br>
+✔ Would you like to use TypeScript? … Yes<br>
+✔ Would you like to use ESLint? … Yes<br>
+✔ Would you like to use Tailwind CSS? … Yes<br>
+✔ Would you like to use `src/` directory? … Yes<br>
+✔ Would you like to use App Router? (recommended) … Yes<br>
+✔ Would you like to customize the default import alias (@/*)? … No<br>
 
 - CSS & Public folder<br>
 Cleaned up CSS & public folder elements.<br>
