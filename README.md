@@ -5,12 +5,16 @@ We have simply configured the official documentation instructions below.
 [Antdesign](https://ant.design/docs/react/use-with-next/)
 
 ## Specific Configuration
+- Next.js Configuration
 ✔ Would you like to use TypeScript? … No / Yes
 ✔ Would you like to use ESLint? … No / Yes
 ✔ Would you like to use Tailwind CSS? … No / Yes
 ✔ Would you like to use `src/` directory? … No / Yes
 ✔ Would you like to use App Router? (recommended) … No / Yes
 ✔ Would you like to customize the default import alias (@/*)? … No / Yes
+
+- CSS & Public folder
+Cleaned up CSS & public folder elements.
 
 ## Getting Started
 
